@@ -1,0 +1,2 @@
+# JSpractice
+beginning of JavaScript 
